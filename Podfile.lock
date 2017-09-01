@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.5.0)
+  - UXMPDFKit (0.7.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - UXMPDFKit (~> 0.7)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  UXMPDFKit: 3cd146f9129a1a33160b1c0f33dd70ecafe60ccf
+
+PODFILE CHECKSUM: 028c623852ae80df64838b3b001d94f6f5dc97d5
+
+COCOAPODS: 1.2.1
